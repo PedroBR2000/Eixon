@@ -2,11 +2,7 @@ body{
     height: 100vh;
     width: 100vw;
     margin: 0 auto;
-    display: grid;
-
-
-
-    
+    display: grid;   
 }
 
 ul{
@@ -61,10 +57,6 @@ float: left;
     float: left;
     position: relative;
 }
-
-
-
-
 
 .texto{
     text-align: center;
@@ -148,10 +140,3 @@ float: left;
 
 }
 
-::-webkit-scrollbar{
-    width: 5px;
-}
-
-::-webkit-scrollbar-thumb{
-    background-color: darkblue;
-}
