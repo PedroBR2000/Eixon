@@ -38,6 +38,19 @@ ul{
     display: flex;
 }
 
+.menu ul li{
+    position: relative;
+    list-style-type: none;
+}
+
+.menu ul li a{
+    position: relative;
+    height: 120px;
+    width: 90px;
+    display: flex;
+    text-decoration: none;
+}
+
 .menu-url{
     border-bottom: 2px solid #ffffff;
 }
