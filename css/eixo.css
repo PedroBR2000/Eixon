@@ -24,46 +24,6 @@ ul{
     width: 10px ;
 }
 
-.livro{
-    background-color: beige;
-    width: 980px;
-    margin: 0 auto;
-}
-
-.menu-url{
-    border-bottom: 2px solid #ffffff;
-}
-
-.menu ul li :hover{
-    border-bottom: 2px solid #00bac6 ;
-}
-
-.menu ul li a :hover{
-    color: #00bac6;
-}
-
-.menu ul li{
-    display: inline-block;
-    color: darkslategray;
-    margin-left: 15px;
-    height: 50px;
-}
-.menu ul li a{
-    color: darkslategray;
-    text-decoration: none;
-    font-size: 22px;
-    text-transform: uppercase;
-}
-.menu{
-width: 100%; 
-float: left;
-}
-
-.coluna{
-    width: 100%;
-    float: left;
-    position: relative;
-}
 
 
 .bar{
