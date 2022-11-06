@@ -33,6 +33,11 @@ ul{
     overflow: hidden;
 }
 
+.menu ul{
+    position: relative;
+    display: flex;
+}
+
 .menu-url{
     border-bottom: 2px solid #ffffff;
 }
