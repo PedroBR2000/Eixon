@@ -23,6 +23,16 @@ ul{
     margin: 0 auto;
 }
 
+.menu{
+    position: relative;
+    height: 120px;
+    width: 500px;
+    background: white;
+    border-radius: 20px;
+    display: flex;
+    overflow: hidden;
+}
+
 .menu-url{
     border-bottom: 2px solid #ffffff;
 }
